@@ -1,4 +1,9 @@
-# Build and Deploy a Modern Crypto Exchange Uniswap dApp and Master Web3 Development & Smart Contracts
-![Uniswap](https://i.ibb.co/GV4ZBpG/Thumbnail-9.png)
+A Decelntralized Exchange that helps to exchange ERC-20 tokens without a central authority. 
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+Centralized exchanges have a lot of control over tokens and can list/delist at will. 
+
+However, DEXes simply need a liquidity pair to operate. Participants can contribute to the liquidity pair and get rewards from the fees. 
+
+Deployed sie: https://web3-dex-clone.netlify.app/
+
+I created a few tokens with my naem and this can be bought with Goerli testnet WETH.
